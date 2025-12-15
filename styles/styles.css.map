@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["_base.scss","../entregas/entrega1/_entrega1.scss","styles.scss"],"names":[],"mappings":"AAIA;EACE,YALY;EAMZ,OALgB;EAMhB;EACA;EACA;EACA;EACA;;;AAEF;EACE;EACA;EACA;EACA;EACA;EACA,OAlBgB;EAmBhB;EACA;;AAEA;EACE,YAvBc;EAwBd,OAzBU;EA0BV;;;AC1BJ;EACE;EACA;EACA;EACA;;AAEA;EACE;EACA;;;ACLJ;EACE;;AAEA;EACE;EACA,OFNe;;AESjB;EACE;EACA;EACA","file":"styles.css"}

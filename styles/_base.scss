@@ -1,0 +1,29 @@
+$color-fondo: #0d0d0d;
+$color-principal: #00ffff;
+$color-secundario: #ff00ff;
+
+body {
+  background: $color-fondo;
+  color: $color-principal;
+  font-family: "Arial", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.btn {
+  display: inline-block;
+  background: transparent;
+  margin-top: 2rem;
+  border: 2px solid $color-principal;
+  padding: 1rem 2rem;
+  color: $color-principal;
+  text-decoration: none;
+  transition: 0.3s;
+
+  &:hover {
+    background: $color-principal;
+    color: $color-fondo;
+    transform: scale(1.1);
+  }
+}
